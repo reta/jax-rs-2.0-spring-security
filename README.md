@@ -1,4 +1,4 @@
-Integrating Apache CXF and Spring Security with Embedded Jetty 
+Integrating Apache CXF and Spring Security inside Embedded Jetty 
 ==============
 
 mvn clean package   
